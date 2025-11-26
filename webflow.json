@@ -10,8 +10,8 @@
     "components": [
       "**/*.webflow.@(js|jsx|mjs|ts|tsx)"
     ],
-    "id": "webflow-code-components",
-    "name": "webflow-code-components",
+    "id": "webflow-code-test",
+    "name": "webflow-code-test",
     "description": ""
   }
 }
